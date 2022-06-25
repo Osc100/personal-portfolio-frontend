@@ -9,7 +9,4 @@ module.exports = {
   },
   plugins: [require("daisyui")],
   darkMode: true,
-  daisyui: {
-    darkTheme: "dracula",
-  },
 };
